@@ -8,7 +8,6 @@ Visit the following resources to learn more:
 
 -   [W3Schools HTML](https://www.w3schools.com/html/default.asp)
 -   [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML#key_resources)
--   [web.dev](https://web.dev/learn/html/)
 -   [HTML Cheatsheet](https://htmlcheatsheet.com/)
 
 ## Writing Semantic HTML
